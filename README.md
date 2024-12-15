@@ -10,10 +10,10 @@ Textual: This should be a plain `.txt` file where:
 - `E` is the end point.
 
 PNG image: pixels are interpreted as follows:
-- `(0, 0, 0): for maze-walls.
-- `(255, 255, 255): for empty space.
-- `(255, 0, 0): for the start point.
-- `(0, 255, 0): for the end point.
+- `(0, 0, 0)`: for maze-walls.
+- `(255, 255, 255)`: for empty space.
+- `(255, 0, 0)`: for the start point.
+- `(0, 255, 0)`: for the end point.
 
 > Note: please find sample inputs and outputs within the `data` directory.
 
