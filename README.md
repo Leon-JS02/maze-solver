@@ -6,7 +6,7 @@ This is a command-line tool for validating and solving mazes. It can work with b
 Textual: This should be a plain `.txt` file where:
 - `W` represents maze-walls.
 - ` ` represents empty space.
-- 'S' is the start point.
+- `S` is the start point.
 - 'E' is the end point.
 
 PNG image: pixels are interpreted as follows:
